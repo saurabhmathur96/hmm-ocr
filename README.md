@@ -1,7 +1,7 @@
 # hmm-ocr
 A hidden markov model based optical character recognizer 
 
-<a href="./hmm.png" alt-text="hmm" />
+<img src="./hmm.png" alt-text="hmm" />
 
 ## Character-transition model
 Assumption: Each character t+1 is conditionally independent of all other characters given the character t
